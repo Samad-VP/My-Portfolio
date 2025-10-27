@@ -8,7 +8,7 @@ This is my **personal portfolio website** built with **React.js** and **Vite**. 
 
 ## 📸 Live Demo
 
-🔗 [View Live Website](https://your-portfolio-link.com)  
+🔗 [View Live Website](my-portfolio-dun-eight-38.vercel.app)  
 (Replace with your actual deployed link)
 
 ---
@@ -19,9 +19,7 @@ This is my **personal portfolio website** built with **React.js** and **Vite**. 
 - ⚡ Vite (for blazing fast dev server & HMR)
 - 💨 Tailwind CSS (optional)
 - 📦 ShadCN UI / Radix UI (for UI components)
-- 🧠 TypeScript (optional)
-- 🔔 Toast Notifications (Radix + Custom hooks)
-- 📁 Deployed on Vercel / Netlify / GitHub Pages
+- 📁 Deployed on Vercel
 
 ---
 
